@@ -29,7 +29,7 @@ A lightweight, Python-based Intrusion Detection System that monitors network tra
 1. Clone the repository:
 ```bash
 git clone https://github.com/kripsdeveloper/pyids-lite-basic.git
-cd simple-ids
+cd pyids-lite-basic
 ```
 
 2. Make the script executable:
