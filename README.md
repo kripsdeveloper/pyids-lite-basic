@@ -1,7 +1,7 @@
 # Simple IDS (Intrusion Detection)
 
 A lightweight, Python-based Intrusion Detection System that monitors network traffic in real-time and detects suspicious activities based on predefined rules.
-
+ 
 ## Features
 
 - **Real-time Network Monitoring**: Captures and analyzes network packets in real-time
